@@ -1,4 +1,4 @@
-🔧 Backend – Nombre del Proyecto
+🔧 Backend – FinanControl
 
 Este repositorio contiene la implementación del backend del sistema en dos tecnologías distintas:
 
@@ -9,8 +9,7 @@ Cada rama contiene su propia estructura y configuración independiente.
 
 👥 Integrantes
 
-Nombre completo – Código
-Nombre completo – Código
+Nicolás David García Nieto-1202736 Paula Valentina Pirajón Flórez-1202745 Laura Sofia Vargas Morales-1202815
 
 🎯 Objetivo del Backend
 
@@ -76,7 +75,7 @@ PUT	/api/users/{id}	Actualizar usuario
 DELETE	/api/users/{id}	Eliminar usuario
 🗄️ Base de Datos
 
-El modelo de base de datos es el mismo para ambas ramas.
+Supabase
 
 Ubicación del script:
 
